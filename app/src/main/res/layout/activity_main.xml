@@ -22,7 +22,7 @@
         />
     <EditText
         android:id="@+id/edit_second"
-        android:layout_width="50dp"
+        android:layout_width="51dp"
         android:layout_height="wrap_content"
         android:hint="정수로 입력"
         />
